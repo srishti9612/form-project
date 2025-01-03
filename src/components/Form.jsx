@@ -101,5 +101,3 @@ export default Form;
 // dropdown;
 // city - text;
 // about - 600 chars
-
-hr@xwola.com
